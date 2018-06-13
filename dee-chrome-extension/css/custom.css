@@ -1,0 +1,15 @@
+.dee-chrome-extension-panel {
+	position: fixed;
+	right: 0;
+	bottom: 10px;
+	background: #fd6363;
+	padding: 10px;
+    box-shadow: 0px 0px 10px #002761;
+    border-radius: 3px;
+    color: white;
+}
+.dee-chrome-extension-panel a{
+	color: white;
+    text-decoration: none;
+	font-size: 16px;
+}
