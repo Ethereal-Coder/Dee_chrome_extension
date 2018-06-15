@@ -8,15 +8,15 @@
     //"default_locale": "zh_CN",
     "description": "A plain text description",
     "icons": {
-        "16": "img/icon.png",
-		"48": "img/icon.png",
-        "128": "img/icon.png"
+        "16": "img/dayu_launcher.png",
+		"48": "img/dayu_launcher.png",
+        "128": "img/dayu_launcher.png"
     },
   
     // Pick one (or none)
     //popup权限和background类似
     "browser_action": {
-        "default_icon": "img/icon.png",
+        "default_icon": "img/dayu_launcher.png",
         // 图标悬停时的标题，可选
 		"default_title": "dee img extension",
 		"default_popup": "popup.html"
